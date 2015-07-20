@@ -1,0 +1,6 @@
+== Patina ==
+
+Some initial experiments in OSL shading.
+
+=== Copyright and License ===
+© 2015, Image Engine Design Inc. under https://github.com/ImageEngine/patina/blob/master/LICENSE[the BSD license]
